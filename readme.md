@@ -1,3 +1,3 @@
 # Hi from main branch (updated)
 
-# Hi from new branch
+# Hi from new branch (Updated)
